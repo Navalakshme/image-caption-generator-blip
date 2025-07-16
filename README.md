@@ -75,7 +75,4 @@ B.E. in Artificial Intelligence & Data Science
 
 ---
 
-> "AI isn’t the future — I’m building it now."
-
----
 
